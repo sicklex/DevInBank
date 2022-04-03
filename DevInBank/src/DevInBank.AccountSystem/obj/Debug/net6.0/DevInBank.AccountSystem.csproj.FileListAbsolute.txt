@@ -1,0 +1,12 @@
+C:\Users\clayd\OneDrive\Área de Trabalho\DevInHouseProject\DevInBank\src\DevInBank.AccountSystem\obj\Debug\net6.0\DevInBank.AccountSystem.csproj.AssemblyReference.cache
+C:\Users\clayd\OneDrive\Área de Trabalho\DevInHouseProject\DevInBank\src\DevInBank.AccountSystem\obj\Debug\net6.0\DevInBank.AccountSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\clayd\OneDrive\Área de Trabalho\DevInHouseProject\DevInBank\src\DevInBank.AccountSystem\obj\Debug\net6.0\DevInBank.AccountSystem.AssemblyInfoInputs.cache
+C:\Users\clayd\OneDrive\Área de Trabalho\DevInHouseProject\DevInBank\src\DevInBank.AccountSystem\obj\Debug\net6.0\DevInBank.AccountSystem.AssemblyInfo.cs
+C:\Users\clayd\OneDrive\Área de Trabalho\DevInHouseProject\DevInBank\src\DevInBank.AccountSystem\obj\Debug\net6.0\DevInBank.AccountSystem.csproj.CoreCompileInputs.cache
+C:\Users\clayd\OneDrive\Área de Trabalho\DevInHouseProject\DevInBank\src\DevInBank.AccountSystem\bin\Debug\net6.0\DevInBank.AccountSystem.deps.json
+C:\Users\clayd\OneDrive\Área de Trabalho\DevInHouseProject\DevInBank\src\DevInBank.AccountSystem\bin\Debug\net6.0\DevInBank.AccountSystem.dll
+C:\Users\clayd\OneDrive\Área de Trabalho\DevInHouseProject\DevInBank\src\DevInBank.AccountSystem\bin\Debug\net6.0\DevInBank.AccountSystem.pdb
+C:\Users\clayd\OneDrive\Área de Trabalho\DevInHouseProject\DevInBank\src\DevInBank.AccountSystem\obj\Debug\net6.0\DevInBank.AccountSystem.dll
+C:\Users\clayd\OneDrive\Área de Trabalho\DevInHouseProject\DevInBank\src\DevInBank.AccountSystem\obj\Debug\net6.0\refint\DevInBank.AccountSystem.dll
+C:\Users\clayd\OneDrive\Área de Trabalho\DevInHouseProject\DevInBank\src\DevInBank.AccountSystem\obj\Debug\net6.0\DevInBank.AccountSystem.pdb
+C:\Users\clayd\OneDrive\Área de Trabalho\DevInHouseProject\DevInBank\src\DevInBank.AccountSystem\obj\Debug\net6.0\ref\DevInBank.AccountSystem.dll

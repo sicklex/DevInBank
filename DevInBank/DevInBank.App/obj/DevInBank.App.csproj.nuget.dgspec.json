@@ -1,0 +1,120 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\clayd\\OneDrive\\Área de Trabalho\\DevInHouseProject\\DevInBank\\DevInBank.App\\DevInBank.App.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\clayd\\OneDrive\\Área de Trabalho\\DevInHouseProject\\DevInBank\\DevInBank.App\\DevInBank.App.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\clayd\\OneDrive\\Área de Trabalho\\DevInHouseProject\\DevInBank\\DevInBank.App\\DevInBank.App.csproj",
+        "projectName": "DevInBank.App",
+        "projectPath": "C:\\Users\\clayd\\OneDrive\\Área de Trabalho\\DevInHouseProject\\DevInBank\\DevInBank.App\\DevInBank.App.csproj",
+        "packagesPath": "C:\\Users\\clayd\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\clayd\\OneDrive\\Área de Trabalho\\DevInHouseProject\\DevInBank\\DevInBank.App\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\clayd\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\clayd\\OneDrive\\Área de Trabalho\\DevInHouseProject\\DevInBank\\src\\DevInBank.AccountSystem\\DevInBank.AccountSystem.csproj": {
+                "projectPath": "C:\\Users\\clayd\\OneDrive\\Área de Trabalho\\DevInHouseProject\\DevInBank\\src\\DevInBank.AccountSystem\\DevInBank.AccountSystem.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\clayd\\OneDrive\\Área de Trabalho\\DevInHouseProject\\DevInBank\\src\\DevInBank.AccountSystem\\DevInBank.AccountSystem.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\clayd\\OneDrive\\Área de Trabalho\\DevInHouseProject\\DevInBank\\src\\DevInBank.AccountSystem\\DevInBank.AccountSystem.csproj",
+        "projectName": "DevInBank.AccountSystem",
+        "projectPath": "C:\\Users\\clayd\\OneDrive\\Área de Trabalho\\DevInHouseProject\\DevInBank\\src\\DevInBank.AccountSystem\\DevInBank.AccountSystem.csproj",
+        "packagesPath": "C:\\Users\\clayd\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\clayd\\OneDrive\\Área de Trabalho\\DevInHouseProject\\DevInBank\\src\\DevInBank.AccountSystem\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\clayd\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

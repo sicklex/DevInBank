@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DevInBank.AccountSystem", "src\DevInBank.AccountSystem\DevInBank.AccountSystem.csproj", "{7FC5244F-0F5D-4398-85CB-71A6D4F8F1E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevInBank.App", "DevInBank.App\DevInBank.App.csproj", "{20B00BB9-B80E-47C4-AA94-7AF11C36DA70}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7FC5244F-0F5D-4398-85CB-71A6D4F8F1E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FC5244F-0F5D-4398-85CB-71A6D4F8F1E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FC5244F-0F5D-4398-85CB-71A6D4F8F1E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FC5244F-0F5D-4398-85CB-71A6D4F8F1E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20B00BB9-B80E-47C4-AA94-7AF11C36DA70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20B00BB9-B80E-47C4-AA94-7AF11C36DA70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20B00BB9-B80E-47C4-AA94-7AF11C36DA70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20B00BB9-B80E-47C4-AA94-7AF11C36DA70}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D465A483-3CF6-48E8-8209-25AF216045D4}
+	EndGlobalSection
+EndGlobal
